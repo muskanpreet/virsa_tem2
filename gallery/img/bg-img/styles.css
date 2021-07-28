@@ -1,0 +1,124 @@
+body{
+	background-color: black;
+	padding-left: 1%;
+	
+}
+.gallery-title{
+	background: url("./bg.jpg");
+	width: 100%;
+	margin: 0%;
+	margin: 0%;
+	padding: 10%;
+	padding-left: 40%;
+	color: rgb(155, 155, 82);
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 5rem;
+}
+.font-talk
+{
+	font-size: 250%;
+}
+.right-content
+{
+	font-family: 'Noto Serif', serif;
+	font-size:1.5rem;
+	color: rgb(155, 88, 231);
+	text-align: center;
+	padding-top: 5%;
+
+	
+}
+.top-image {
+	margin-top: 40px;
+}
+.left-content
+{
+	font-family:serif;
+	color: rgb(223, 132, 132);
+	text-align: center;
+	padding-top: 12%;
+    font-size: 1.5rem;
+	
+}
+.right-content2
+{
+	font-family: 'Noto Serif', serif;
+	font-size: 1.5rem;
+	color: rgb(155, 88, 231);
+	text-align: center;
+	padding-top: 20%;
+
+	
+}
+.left-content2
+{
+	font-family:serif;
+	color: rgb(223, 132, 132);
+	text-align: center;
+	padding-top: 25%;
+    font-size: 150%;
+	
+}
+
+.top-image .container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.top-image h4 {
+	margin: 30px 0px 20px 0px;
+}
+
+.top-image .primary-button {
+	margin-top: 20px;
+}
+
+/* Left Image */
+.left-image {
+	margin-top: 20px;
+    background-color: black;
+}
+
+.left-image .container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.left-image .right-content {
+	margin-left: 15px;
+}
+
+.left-image h4 {
+	margin: 0px 0px 20px 0px;
+}
+
+.left-image .primary-button {
+	margin-top: 30px;
+}
+
+/* Right Image */
+section.right-image {
+	border-bottom: none;
+	padding-bottom: 0px;
+}
+
+.right-image {
+	margin-top: 2%;
+}
+
+.right-image .container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.right-image .left-content {
+	margin-right: 15px;
+}
+
+.right-image h4 {
+	margin: 0px 0px 20px 0px;
+}
+
+.right-image .primary-button {
+	margin-top: 30px;
+}
